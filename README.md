@@ -1,2 +1,2 @@
 # Multipage-Education-School-Website
-HTML CSS &amp; JavaScript
+HTML CSS &amp; 
